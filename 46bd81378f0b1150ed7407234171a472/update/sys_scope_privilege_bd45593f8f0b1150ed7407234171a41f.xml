@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="IPLookup">46bd81378f0b1150ed7407234171a472</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 16:52:24</sys_created_on>
+        <sys_id>bd45593f8f0b1150ed7407234171a41f</sys_id>
+        <sys_name>ScriptableRESTMessageClient.execute</sys_name>
+        <sys_package display_value="IPLookup" source="x_932312_iplookup">46bd81378f0b1150ed7407234171a472</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">46bd81378f0b1150ed7407234171a472</sys_scope>
+        <sys_update_name>sys_scope_privilege_bd45593f8f0b1150ed7407234171a41f</sys_update_name>
+        <target_name>ScriptableRESTMessageClient.execute</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
